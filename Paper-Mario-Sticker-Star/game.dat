@@ -25,7 +25,7 @@ region = "TWN"
 release_date = "2013-12-06"
 
 [[ testcases ]]
-compatibility = "1"
+compatibility = "2"
 date = "2017-06-08"
 version = "HEAD-8c22334"
 author = "Clector"
