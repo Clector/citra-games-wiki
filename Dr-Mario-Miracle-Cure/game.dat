@@ -5,10 +5,11 @@ needs_shared_font = false
 
 [[ releases ]]
 title = "000400000013bb00"
-region = "ALL"
+region = "all"
 release_date = "2015-05-31"
 
 [[ testcases ]]
+title = "000400000013bb00"
 compatibility = "1"
 date = "2017-06-08"
 version = "HEAD-8c22334"

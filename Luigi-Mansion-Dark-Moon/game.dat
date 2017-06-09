@@ -6,25 +6,26 @@ needs_shared_font = true
 
 [[ releases ]]
 title = "0004000000076400"
-region = "JPN"
+region = "jpn"
 release_date = "2013-03-20"
 
 [[ releases ]]
 title = "0004000000055F00"
-region = "USA"
+region = "usa"
 release_date = "2013-03-24"
 
 [[ releases ]]
 title = "0004000000076500"
-region = "EUR"
+region = "eur"
 release_date = "2013-03-28"
 
 [[ releases ]]
 title = "00040000000D0000"
-region = "TWN"
+region = "twn"
 release_date = "2013-12-06"
 
 [[ testcases ]]
+title = "0004000000055F00"
 compatibility = "3"
 date = "2017-06-08"
 version = "HEAD-8c22334"

@@ -5,20 +5,21 @@ needs_shared_font = true
 
 [[ releases ]]
 title = "0004000000132100"
-region = "EUR"
+region = "eur"
 release_date = "2014-11-07"
 
 [[ releases ]]
 title = "0004000000132000"
-region = "USA"
+region = "usa"
 release_date = "2014-12-05"
 
 [[ releases ]]
 title = "0004000000131F00"
-region = "JPN"
+region = "jpn"
 release_date = "2015-08-27"
 
 [[ testcases ]]
+title = "0004000000132000"
 compatibility = "1"
 date = "2017-06-08"
 version = "HEAD-8c22334"
