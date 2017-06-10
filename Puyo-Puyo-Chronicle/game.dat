@@ -9,7 +9,6 @@ title = "0004000000197500"
 region = "jpn"
 release_date = "2016-12-08"
 
-
 [[ testcases ]]
 title = "0004000000197500"
 compatibility = "5"
